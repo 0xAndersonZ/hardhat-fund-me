@@ -1,0 +1,4 @@
+1. Unit testings are done locally to test some part/functionality of the application.
+    - local hardhat
+    - fored hardhat
+2. Staging tests can be done on a testnet (Last step before deploying to mainnet).
